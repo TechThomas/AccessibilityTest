@@ -1,31 +1,21 @@
 ## Our Approach
-Weather you would like Equal Entry to come get your team excited about a new Accessibility effort, or would like to plan for depth training based on audit results, Equal Entry can deliver. Our trainers are dynamic, enthusiastic and knowledgeable.
+Equal Entry’s approach to Audits and Training continue with our ability to look beyond the legal language to focus on the impact to individuals with disabilities.
 
-On-site or remote delivery is available. Equal Entry focus is no results that impact real people with disabilities. Helping your team “Contributing to a more accessible world”
+The disability landscape is broad and can have conflicting priorities. Equal Entry uses years of experience to find the right balance to achieve the best results for all.
 
-OR Equal Entry can created on-line training videos - check out https://www.youtube.com/watch?v=xuiKfUgEvfo&index=2&t=0s&list=PLzifa8nNVjKPqpDBFxJeTa6WNCyZpsPbq
+Our experience working with lawyers, as well as being key witnesses in lawsuits, has given us a unique perspective when it comes to explaining and justifying our client's accessibility compliance. We know how to help our clients protect themselves from frivolous lawsuits by showing baseline results and progress over time. This makes a big difference in reducing legal risk.
 
-## Training Experience
-Equal Entry has provided training on several Accessibility topics including:
-Introduction to Information Communication Technology Accessibility
+## Experience
+The Equal Entry team has provided Expert Testimony for both plaintiffs and defendants in several Federal and State District courts.
 
-* Section 508
+* Specify Critical Tasks
 
-* WCAG 2.0
+* Risk Prioritization
 
-* What’s new in WCAG 2.1
+* Identify Significant Barriers
 
-* WCAG for Developers
+* Depositions
 
-* Building Accessibility Mobile Applications for IOS
+* Expert Testimony
 
-* Building Accessibility Mobile Applications for Android
-
-* Testing for Accessibility
-
-## Equal Entry Knowledge Base
-With even the best training, students might need to review a section or two. When Equal Entry does your training, your team will have access to the Equal Entry Knowledge Base for 30 DAYS! Training classes included links back to the Equal Entry Knowledge Base, allowing students that need to review the content again has the time to do so.
-
-<script>// <![CDATA[
-(function(e,t,n,o){var s,c,i;e.SMCX=e.SMCX||[],t.getElementById(o)||(s=t.getElementsByTagName(n),c=s[s.length-1],i=t.createElement(n),i.type=\"text/javascript\",i.async=!0,i.id=o,i.src=[\"https:\"===location.protocol?\"https://\":\"http://\",\"widget.surveymonkey.com/collect/website/js/QJtpfuDtTdCeZDIgfeDXGORMQb_2F_2BBYde6YASe_2FJRblWViYt_2BKO3DiJjetj1jzGM2.js\"].join(\"\"),c.parentNode.insertBefore(i,c))})(window,document,\"script\",\"smcx-sdk\");
-// ]]></script>
+<script>// <![CDATA[ (function(e,t,n,o){var s,c,i;e.SMCX=e.SMCX||[],t.getElementById(o)||(s=t.getElementsByTagName(n),c=s[s.length-1],i=t.createElement(n),i.type=\"text/javascript\",i.async=!0,i.id=o,i.src=[\"https:\"===location.protocol?\"https://\":\"http://\",\"widget.surveymonkey.com/collect/website/js/QJtpfuDtTdCeZDIgfeDXGORMQb_2F_2BBYde6YASe_2FJRblWViYt_2BKO3DiJjetj1jzGM2.js\"].join(\"\"),c.parentNode.insertBefore(i,c))})(window,document,\"script\",\"smcx-sdk\"); // ]]></script>
