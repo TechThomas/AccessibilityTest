@@ -1,0 +1,25 @@
+Our Approach
+Accessibility is about providing access to information for everyone, regardless of age or ability, so that each individual can realize their full potential. Different people can have different types, ranges and combinations of accessibility issues, as well as different levels of computer skills. This means that a “pass/fail” or “X % accessible” approach for assessment does not work nearly as well as having actionable feedback on key accessibility issues.
+
+At Equal Entry we partner with our clients to define a set of scenarios that represent an individuals goals in using their website or application and focus on users with disabilities ability to complete those steps. We don’t rely on automated testing tools that can be fooled.
+
+By writing step-by-step scenarios for how someone will use a product or website, and following those steps using assistive technology, we are able to locate every possible blocking issue, along with scores of other issues that might otherwise go unnoticed. All of our accessibility testing is done manually. While automated testing can be informative, we have found that manual testing yields much greater accuracy, because it matches the individual’s experience.
+
+Audit Experience
+Our team of Accessibility Consultants have the experience you’re looking for on a wide variety of platforms…
+
+Web Sites
+Web Applications
+
+iOS Applications
+
+Android Applications
+
+Desktop Applications
+
+Authoring Tools
+
+Several teammates have IAAP (International Association of Accessibility Professionals) certifications. IAAP Certified Professional in Accessibility Core Competencies (CPACC), Web Accessibility Specialist (WAS), or Certified Professional in Web Accessibility (CPWA). CPWA is the highest certification level from IAAP showing that the individual has both the CPACC and WAS certifications.
+
+Equal Entry Knowledge Base
+Still need a reason to go with Equal Entry? While working with us, we will provide your team with access to our Knowledge Base. Most issues that we log have corresponding content in the Knowledge Base to give further details and we provide the link right to it!
