@@ -1,25 +1,31 @@
-Our Approach
-Accessibility is about providing access to information for everyone, regardless of age or ability, so that each individual can realize their full potential. Different people can have different types, ranges and combinations of accessibility issues, as well as different levels of computer skills. This means that a “pass/fail” or “X % accessible” approach for assessment does not work nearly as well as having actionable feedback on key accessibility issues.
+## Our Approach
+Weather you would like Equal Entry to come get your team excited about a new Accessibility effort, or would like to plan for depth training based on audit results, Equal Entry can deliver. Our trainers are dynamic, enthusiastic and knowledgeable.
 
-At Equal Entry we partner with our clients to define a set of scenarios that represent an individuals goals in using their website or application and focus on users with disabilities ability to complete those steps. We don’t rely on automated testing tools that can be fooled.
+On-site or remote delivery is available. Equal Entry focus is no results that impact real people with disabilities. Helping your team “Contributing to a more accessible world”
 
-By writing step-by-step scenarios for how someone will use a product or website, and following those steps using assistive technology, we are able to locate every possible blocking issue, along with scores of other issues that might otherwise go unnoticed. All of our accessibility testing is done manually. While automated testing can be informative, we have found that manual testing yields much greater accuracy, because it matches the individual’s experience.
+OR Equal Entry can created on-line training videos - check out https://www.youtube.com/watch?v=xuiKfUgEvfo&index=2&t=0s&list=PLzifa8nNVjKPqpDBFxJeTa6WNCyZpsPbq
 
-Audit Experience
-Our team of Accessibility Consultants have the experience you’re looking for on a wide variety of platforms…
+## Training Experience
+Equal Entry has provided training on several Accessibility topics including:
+Introduction to Information Communication Technology Accessibility
 
-Web Sites
-Web Applications
+* Section 508
 
-iOS Applications
+* WCAG 2.0
 
-Android Applications
+* What’s new in WCAG 2.1
 
-Desktop Applications
+* WCAG for Developers
 
-Authoring Tools
+* Building Accessibility Mobile Applications for IOS
 
-Several teammates have IAAP (International Association of Accessibility Professionals) certifications. IAAP Certified Professional in Accessibility Core Competencies (CPACC), Web Accessibility Specialist (WAS), or Certified Professional in Web Accessibility (CPWA). CPWA is the highest certification level from IAAP showing that the individual has both the CPACC and WAS certifications.
+* Building Accessibility Mobile Applications for Android
 
-Equal Entry Knowledge Base
-Still need a reason to go with Equal Entry? While working with us, we will provide your team with access to our Knowledge Base. Most issues that we log have corresponding content in the Knowledge Base to give further details and we provide the link right to it!
+* Testing for Accessibility
+
+## Equal Entry Knowledge Base
+With even the best training, students might need to review a section or two. When Equal Entry does your training, your team will have access to the Equal Entry Knowledge Base for 30 DAYS! Training classes included links back to the Equal Entry Knowledge Base, allowing students that need to review the content again has the time to do so.
+
+<script>// <![CDATA[
+(function(e,t,n,o){var s,c,i;e.SMCX=e.SMCX||[],t.getElementById(o)||(s=t.getElementsByTagName(n),c=s[s.length-1],i=t.createElement(n),i.type=\"text/javascript\",i.async=!0,i.id=o,i.src=[\"https:\"===location.protocol?\"https://\":\"http://\",\"widget.surveymonkey.com/collect/website/js/QJtpfuDtTdCeZDIgfeDXGORMQb_2F_2BBYde6YASe_2FJRblWViYt_2BKO3DiJjetj1jzGM2.js\"].join(\"\"),c.parentNode.insertBefore(i,c))})(window,document,\"script\",\"smcx-sdk\");
+// ]]></script>
